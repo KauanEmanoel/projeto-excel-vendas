@@ -16,4 +16,4 @@ Projeto de análise de vendas desenvolvido no Excel.
 
 ## Dashboard
 
-![dashboard](dashboard)
+![dashboard](Dashboard)
